@@ -1,0 +1,24 @@
+[
+    {
+        "brandName": "HTC",
+        "itemCategoryType": [
+            "Smartwatch"
+        ]
+    },
+    {
+        "brandName": "SAMSUNG",
+        "itemCategoryType": [
+            "TV",
+            "MOBILE",
+            "LAPTOP"
+        ]
+    },
+    {
+        "brandName": "SONY",
+        "itemCategoryType": [
+            "TV",
+            "MOBILE",
+            "LAPTOP"
+        ]
+    }
+]
